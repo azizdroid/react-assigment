@@ -227,6 +227,7 @@ function Form() {
       </div>
       <div className="container">
         <div className="col-12">
+          <br />
           <button
             class="btn btn-primary"
             onClick={() => history.push("/dataFolder")}
